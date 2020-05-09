@@ -4,7 +4,7 @@ A command line application for the classic hangman game. Hangman is a paper and 
 ## Requirements
 The words available to guess in the game are located in the file called words.txt
 
-##Usage
+## Usage
 To use and run this application simply do:
 ```bash
 python hangman.py
